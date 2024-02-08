@@ -56,9 +56,12 @@ def main():
     # Define email body content
     body = """Dear Hiring Manager,
 
-I'm excited to apply for the Software Developer role at your company. With 5 months of experience at ITNow Inc., I've gained expertise in JavaScript, Python, Java, PHP, SQL, React.js, Node.js, MongoDB, and more. Proficient in prompt engineering tools like ChatGPT and BARD AI, as well as tools like Canva, Excel, and GitHub, I'm ready to contribute effectively to your team.
+I hope this message finds you well. I am reaching out to express my interest in the Software Developer position at your organization.
+With 5 months of work experience at ITNow Inc as a Servicenow Developer and proficiency in a range of programming languages including Python, Java, JavaScript,
+and PHP.
+Attached is my resume for your consideration. I am excited about the opportunity to discuss how my background aligns with the needs of your team.
 
-Looking forward to the opportunity to discuss further.
+Thank you for your time and consideration.
 
 Best Regards,
 Khilesh Singh
