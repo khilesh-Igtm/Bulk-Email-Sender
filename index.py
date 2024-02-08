@@ -62,7 +62,7 @@ Looking forward to the opportunity to discuss further.
 
 Best Regards,
 Khilesh Singh
-Resume: https://drive.google.com/file/d/1Ck81Wcd4OmK6qP19T7VGCGi8_68mkkhR/view?usp=drive_link """
+ """
 
     # Folder containing resumes (current directory)
     resume_folder = os.getcwd()
