@@ -65,6 +65,7 @@ Thank you for your time and consideration.
 
 Best Regards,
 Khilesh Singh
+Resume: https://drive.google.com/file/d/1yGQ-IzO6ngkhMzteKlfu9zytwFKFfZoH/view?usp=sharing
  """
 
     # Folder containing resumes (current directory)
